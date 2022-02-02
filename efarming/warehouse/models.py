@@ -12,9 +12,11 @@ class warehouse(models.Model):
 class ProductType(models.Model):
     name = models.CharField(max_length=100)
     price = models.IntegerField(max_length=100)
+    catagory_name=models.CharField(max_length=100)
     description = models.TextField()
 
 class Catagory(models.Model):
     name = models.CharField(max_length=100)
     description = models.TextField()
+
     
