@@ -1,6 +1,8 @@
-"""from django.urls import include
+
 from django.urls import path
+from . import views
 
 urlpatterns = [
-    path('user/', include('user.urls')),
-]"""
+   
+    path('', views.vender_view),
+]
