@@ -8,10 +8,17 @@ class user(models.Model):
     email = models.CharField(max_length=50)
     age =  models.IntegerField()
     address = models.TextField()
-    contact = models.UUIDField()
+    contact = models.IntegerField()
+
+    def __str__(self):
+        return self.user_name
+
     
 class Vendor(models.Model):
     name = models.CharField(max_length=100)
+
+    def __str__(self):
+        return self.name
 
 class Customre(models.Model):
     name = models.CharField(max_length=100)
