@@ -1,6 +1,6 @@
-from pyexpat import model
 from django import forms
-from .models import Vendor , user
+from .models import Vendor , user ,Customer
+
    
 
 class VendorForm(forms.ModelForm):
@@ -12,4 +12,9 @@ class VendorForm(forms.ModelForm):
 class UserForm(forms.ModelForm):
     class Meta:
         model = user
+        fields = "__all__"
+
+class CustomerForm(forms.ModelForm):
+    class Meta:
+        model = Customer
         fields = "__all__"
