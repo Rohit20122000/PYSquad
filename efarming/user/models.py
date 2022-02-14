@@ -16,13 +16,15 @@ class User(models.Model):
 
     
 class Vendor(models.Model):
-    name = models.CharField(max_length=100)
+    vendor_data = models.ForeignKey(User,on_delete=models.CASCADE)
+    Area_code= models.CharField(max_length=100)
 
     def __str__(self):
-        return self.name
+        return self.Area_code
 
 class Customer(models.Model):
-    name = models.CharField(max_length=100)
+    customer_data = models.ForeignKey(User,on_delete=models.CASCADE)
+    Pin = models.CharField(max_length=100)
 
     def __str__(self):
-        return self.name
+        return self.Pin
