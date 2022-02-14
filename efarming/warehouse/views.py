@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .forms import ProductTypefForm,WarehouseForm,CatagoryForm
+from .forms import ProductTypefForm,WarehouseForm,CatagoryForm,InventoryForm
 
 # Create your views here.
 def producttype_view(request):
@@ -29,3 +29,11 @@ def catagory_view(request):
                  
     return render(request, "warehouseform.html",{'form':form})
 
+def Inventory_view(request):
+ 
+    form = InventoryForm(request.POST)
+   
+    if form.is_valid():
+        form.save()
+                 
+    return render(request, "warehouseform.html",{'form':form})
