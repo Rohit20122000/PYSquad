@@ -1,5 +1,3 @@
-from codecs import backslashreplace_errors
-from operator import mod
 from django.db import models
 
 # Create your models here.
@@ -10,6 +8,9 @@ class Cart(models.Model):
     add_date = models.DateField(null=True,blank=True)
     total_price = models.DecimalField(max_digits=10,decimal_places=2)
 
+    def __str__(self) -> str:
+        return self.customer_name
+
 class Order(models.Model):
     customer_name = models.CharField(max_length=50)
     address = models.TextField()
@@ -18,3 +19,5 @@ class Order(models.Model):
     deliveryDate = models.DateField()
     productQuntity = models.IntegerField()
 
+    def __str__(self) -> str:
+        return self.price

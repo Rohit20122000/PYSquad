@@ -9,9 +9,6 @@ def vendor_view(request):
     if form.is_valid():
         form.save()
                  
-    
-
-    #form = VendorForm()
     return render(request, "venderform.html",{'form':form})
 
 def user_view(request):

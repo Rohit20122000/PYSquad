@@ -7,6 +7,10 @@ class warehouse(models.Model):
     stoke = models.IntegerField()
     capacity = models.IntegerField()
     no_of_vehicles = models.IntegerField()
+
+    def __str__(self):
+        return self.stoke
+
     
 
 class ProductType(models.Model):
@@ -15,8 +19,17 @@ class ProductType(models.Model):
     catagory_name=models.CharField(max_length=100)
     description = models.TextField()
 
+
+    def __str__(self):
+        return self.name
+
+
 class Catagory(models.Model):
     name = models.CharField(max_length=100)
     description = models.TextField()
+
+
+    def __str__(self):
+        return self.name
 
     
