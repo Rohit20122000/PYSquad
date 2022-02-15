@@ -1,0 +1,476 @@
+/*===============================
+  service-box-style-1
+===================================*/
+.css_prefix-slider-1.css_prefix-service-slider .owl-stage-outer {
+  box-shadow: 0px 100px 110px 3px rgb(0 0 0 / 8%);
+  -webkit-box-shadow: 0px 100px 110px 3px rgb(0 0 0 / 8%);
+  -moz-box-shadow: 0px 100px 110px 3px rgb(0 0 0 / 8%);
+  padding-top: 50px;
+}
+
+.css_prefix-service-box-style-1 {
+  text-align: center;
+  padding: 80px 50px 70px;
+  background-color: var(--color-theme-white);
+  transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  -ms-transition: all .5s ease-in-out;
+  -o-transition: all .5s ease-in-out;
+  -webkit-transition: all .5s ease-in-out;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.css_prefix-service-box-style-1::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: var(--color-theme-grey);
+  width: 2px;
+  height: 100%;
+  padding: 0;
+}
+
+.css_prefix-service-box-style-1:hover {
+  background: var(--color-theme-primary);
+}
+
+.css_prefix-service-box-style-1 .service-icon-box {
+  position: absolute;
+  right: 40px;
+  top: -50px;
+  background: var(--color-theme-primary);
+  height: 100px;
+  width: 100px;
+  line-height: 100px;
+  border-left: 3px solid var(--color-theme-secondary);
+  border-radius: var(--border-radius);
+  margin: 0 auto;
+  text-align: center;
+}
+
+.css_prefix-service-box-style-1:hover .service-icon-box {
+  background: var(--color-theme-white);
+}
+
+.css_prefix-service-box-style-1 .service-icon-box svg {
+  height: 40px;
+  fill: var(--color-theme-white);
+}
+
+.css_prefix-service-box-style-1 .service-icon-box svg path {
+  fill: var(--color-theme-white);
+}
+
+.css_prefix-service-box-style-1:hover .service-icon-box svg path {
+  fill: var(--color-theme-primary);
+}
+
+.css_prefix-service-box .css_prefix-service-details .css_prefix-service-subtitle {
+  letter-spacing: var(--letter-spacing-subtitle);
+  text-transform: uppercase;
+  font-size: var(--font-size-normal);
+  color: var(--color-theme-primary);
+  margin-bottom: 5px;
+}
+
+.css_prefix-service-box-style-1 .css_prefix-service-subtitle,
+.css_prefix-service-box-style-1 .service-box-title .service-box-text,
+.css_prefix-service-box-style-1 .css_prefix-btn-link .text-btn,
+.css_prefix-service-box-style-1 .service-icon-box,
+.css_prefix-service-box-style-1 .service-icon-box svg path {
+  transition: all .3s ease-in-out;
+  -moz-transition: all .3s ease-in-out;
+  -ms-transition: all .3s ease-in-out;
+  -o-transition: all .3s ease-in-out;
+  -webkit-transition: all .3s ease-in-out;
+}
+
+.css_prefix-service-box-style-1:hover .css_prefix-service-details .css_prefix-service-subtitle,
+.css_prefix-service-box-style-1:hover .service-box-title .service-box-text,
+.css_prefix-service-box-style-1:hover .css_prefix-btn-link {
+  color: var(--color-theme-white);
+}
+
+.css_prefix-service-box .css_prefix-service-meta ul {
+  margin: 0;
+}
+
+.css_prefix-service-box-style-1 .css_prefix-service-details {
+  position: relative;
+}
+
+.css_prefix-service-box-style-1 .css_prefix-service-image {
+  position: relative;
+  overflow: hidden;
+  margin: 54px 0 70px;
+}
+
+.css_prefix-service-box-style-1 .css_prefix-service-image .css_prefix-img-box img {
+  height: 227px;
+  object-fit: cover;
+}
+
+.css_prefix-service-box:hover:before {
+  opacity: 1;
+}
+
+.css_prefix-service-box-style-1 .css_prefix-service-inner-image {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  right: 30px;
+  top: -65px;
+  padding: 15px;
+  background: var(--color-theme-white);
+  border-bottom: 2px solid var(--color-theme-secondary);
+}
+
+.css_prefix-service-box-style-1 .css_prefix-btn-container .css_prefix-button:hover,
+.css_prefix-service-box-style-1 .css_prefix-btn-link:hover span.text-btn {
+  color: var(--color-theme-white);
+}
+
+@media (max-width: 767px) {
+  .css_prefix-service-box-style-1 {
+    padding: 80px 30px 70px;
+  }
+}
+
+/*===============================
+  service-box-style-2
+===================================*/
+.css_prefix-service-box-style-2 {
+  padding: 0px;
+  position: relative;
+  overflow: hidden;
+  transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+
+.css_prefix-service-box-style-2 .css_prefix-service-image .css_prefix-img-box {
+  width: 100%;
+  text-align: center;
+  background: var(--color-theme-white);
+  z-index: 1;
+  position: relative;
+}
+
+.css_prefix-service-box-style-2 .css_prefix-service-image img {
+  height: 258px;
+  overflow: visible;
+  width: 100%;
+  object-fit: cover;
+}
+
+.css_prefix-service-box-style-2 .css_prefix-service-image:before {
+  z-index: 0;
+}
+
+.css_prefix-service-box.css_prefix-service-box-style-2 .css_prefix-service-details .blog-title .css_prefix-heading-title:hover {
+  color: var(--color-theme-white);
+}
+
+.css_prefix-service-box-style-2:before {
+  content: "";
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  right: 0;
+  top: 0;
+}
+
+.css_prefix-service-box-style-2:hover:before {
+  opacity: 1;
+}
+
+.css_prefix-service-box-style-2:hover .css_prefix-service-box-style-2>img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 0;
+  opacity: 0;
+}
+
+.css_prefix-service-box-style-2 .service-box-content {
+  position: relative;
+  padding: 35px 35px 20px 35px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: var(--color-theme-white);
+  border-left: 3px solid var(--color-theme-secondary);
+}
+
+.css_prefix-service-box-style-2 .service-box-content .css_prefix-service-details {
+  padding: 0 15px;
+}
+
+
+.css_prefix-service-box-style-2 .service-box-content .service-icon-box svg path {
+  width: 50px;
+}
+
+.css_prefix-service-box-style-2 .service-box-content .css_prefix-service-details .process-description {
+  margin: 20px 0;
+}
+
+.css_prefix-service-box-style-2 .service-box-content .css_prefix-service-details .process-description p {
+  margin: 0;
+}
+
+.css_prefix-service-box-style-2 .service-box-content .css_prefix-service-details .css_prefix-btn-container {
+  padding: 20px 0 15px 0;
+}
+
+.css_prefix-service-box-style-2:hover>img {
+  opacity: 1;
+}
+
+.css_prefix-service-box-style-2:hover .css_prefix-service-meta ul li span.css_prefix-user {
+  color: var(--color-theme-secondary);
+}
+
+.css_prefix-service-box-style-2 .css_prefix-servicemain p {
+  transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.css_prefix-service-box-style-2:hover .css_prefix-heading-title, 
+.css_prefix-service-box-style-2:hover .css_prefix-servicemain p, 
+.css_prefix-service-box-style-2:hover .css_prefix-button.css_prefix-blog-link span.text-btn, 
+.css_prefix-service-box-style-2:hover .css_prefix-button.css_prefix-blog-link {
+  color: var(--color-theme-white);
+}
+
+.css_prefix-service-box .css_prefix-service-details .blog-title .css_prefix-heading-title:hover {
+  color: var(--color-theme-primary);
+}
+
+
+/*=== responsive ===*/
+@media (max-width: 480px) {
+  .css_prefix-service-box-style-2 .service-box-content {
+    padding: 30px 20px 15px 20px;
+  }
+}
+
+
+/*===============================
+css_prefix-service-box-style-3
+===================================*/
+.css_prefix-slider-3 .owl-item .item {
+  padding-bottom: 25px;
+}
+
+.css_prefix-service-box-style-3 {
+  padding: 80px 50px 80px 50px;
+  position: relative;
+  background-color: var(--color-theme-white);
+  text-align: center;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.css_prefix-service-box-style-3::before {
+  content: "";
+  background: var(--color-theme-secondary);
+  height: 180px;
+  width: 3px;
+  position: absolute;
+  left: 0;
+  bottom: 105px;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.css_prefix-service-box-style-3:hover::before {
+  background: transparent;
+}
+
+.css_prefix-service-box-style-3:hover {
+  background-color: var(--color-theme-primary);
+}
+
+.css_prefix-service-box-style-3 .service-icon-box {
+  height: 100px;
+  width: 100px;
+  background-color: var(--color-theme-primary);
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.css_prefix-service-box-style-3 .service-icon-box svg {
+  height: 40px;
+  width: 40px;
+}
+
+.css_prefix-service-box-style-3:hover .service-icon-box {
+  background-color: var(--color-theme-white);
+}
+
+.css_prefix-service-box-style-3 .service-icon-box svg path {
+  fill: var(--color-theme-white);
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.css_prefix-service-box-style-3:hover .service-icon-box svg path {
+  fill: var(--color-theme-primary);
+}
+
+.css_prefix-service-box-style-3 .service-icon-box svg {
+  height: 40px;
+  width: 40px;
+}
+
+.css_prefix-service-box-style-3 .service-box-content {
+  margin-top: 40px;
+}
+
+.css_prefix-service-box-style-3 .css_prefix-service-details .process-description {
+  margin: 20px 0;
+}
+
+.css_prefix-service-box-style-3:hover .service-box-title .service-link .css_prefix-service-title,
+.css_prefix-service-box-style-3:hover .process-description {
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.css_prefix-service-box-style-3:hover .service-box-title .service-link .css_prefix-service-title,
+.css_prefix-service-box-style-3:hover .process-description {
+  color: var(--color-theme-white)
+}
+
+.css_prefix-service-box-style-3 .css_service-circle-container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -25px;
+}
+
+.css_prefix-service-box-style-3 .css_service-circle-container .css_prefix-circle a {
+  height: 50px;
+  width: 50px;
+  line-height: 50px;
+  font-size: 16px;
+  display: inline-block;
+  background-color: var(--color-theme-secondary);
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  font-family: var(--highlight-font-family);
+}
+
+/*=== responsive ===*/
+
+@media (max-width: 767px) {
+  .css_prefix-service-box-style-3 {
+    padding: 50px;
+  }
+
+  .css_prefix-service-box-style-3 .service-box-content {
+    margin-top: 30px;
+  }
+
+  .css_prefix-service-box-style-3 .css_prefix-service-details .process-description p {
+    margin: 15px 0;
+  }
+}
+
+
+/*======================================
+Service-slider
+==========================================*/
+
+.css_prefix-service-slider .owl-item {
+  opacity: 0;
+}
+
+.css_prefix-service-slider .owl-item.active {
+  opacity: 1;
+}
+
+.css_prefix-service-slider .owl-dots {
+  margin-top: 40px;
+}
+
+/*======================================
+Service-Detail Css
+==========================================*/
+
+.css_prefix .type-service .css_prefix-blog-box {
+  box-shadow: none;
+  background: transparent;
+}
+
+.css_prefix .type-service .css_prefix-blog-box .css_prefix-blog-detail {
+  padding: 0;
+  background: transparent;
+}
+
+.css_prefix .type-service .css_prefix-blog-box .css_prefix-blog-detail .footer-block .widget {
+  margin-bottom: 40px;
+}
+
+/*=========================================
+All-services
+=============================================*/
+.post-type-archive-service .css_prefix .type-service .css_prefix-blog-box {
+  box-shadow: 0 24px 84px 0 rgb(0 0 0 / 8%);
+  -webkit-box-shadow: 0 24px 84px 0 rgb(0 0 0 / 8%);
+  -moz-box-shadow: 0 24px 84px 0 rgba(0, 0, 0, .08);
+}
+
+.post-type-archive-service .css_prefix .type-service .css_prefix-blog-box .css_prefix-blog-detail {
+  padding: 30px;
+  background: var(--color-theme-white);
+}
+
+.post-type-archive-service .css_prefix .type-service .css_prefix-blog-box .css_prefix-blog-image img {
+  width: 100%;
+  transform: none;
+}

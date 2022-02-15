@@ -1,0 +1,712 @@
+<!doctype html>
+<html lang="en-US" class="no-js">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+  <link rel="icon" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" sizes="32x32" />
+<link rel="icon" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" />
+<meta name="msapplication-TileImage" content="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" />
+    <link rel="shortcut icon" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/images/redux/favicon.png" />
+    				<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
+				<title>Page not found &#8211; Farmin</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Farmin &raquo; Feed" href="https://wordpress.iqonic.design/product/wp/farmin/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Farmin &raquo; Comments Feed" href="https://wordpress.iqonic.design/product/wp/farmin/comments/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/wordpress.iqonic.design\/product\/wp\/farmin\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='iq-owl-carousel-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/assets/css/owl.carousel.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-includes/css/dist/block-library/style.min.css?ver=5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.7.3' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-selectBox-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-font-awesome-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce_prettyPhoto_css-css'  href='//wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=3.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='yith-wcwl-main-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=3.6.0' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='intro-linker-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/intro-linker/public/css/intro-linker-public.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='extendify-sdk-utility-classes-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/ReduxCore/extendify-sdk/public/build/extendify-utilities.css?ver=13.4' type='text/css' media='all' />
+<link rel='stylesheet' id='general-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/general.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='circlechart-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/circle-chart.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Owl-Carousel-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/owl.carousel.min.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/jquery.fancybox.min.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Gallery-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/gallery.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Blog-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/blog.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Counter-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/counter.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ServiceBox-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/servicebox.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='list-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/list.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='accordion-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/accordion.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='ProcessFlow-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/process-flow.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Button-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/button.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='IconBox-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/iconbox.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-min-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/slick.min.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Testimonial-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/testimonial.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-product-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/woocommerce-product.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Title-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/title.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='Client-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/client.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='timeline-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/timeline.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='social-media-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/social-media.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='team-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/team.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/magnific-popup.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='videopopup-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/videopopup.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-login-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/css/woocommerce-login.css?ver=1.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=6.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=6.2.0' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=6.2.0' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wp-rig-fonts-css'  href='https://fonts.googleapis.com/css?family=Saira%20Condensed:300,400,400i,500,600,700,800%7CRoboto:400,400i&#038;display=swap' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/vendor/bootstrap.min.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-all-min-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/vendor/font-awesome/css/all.min.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wow-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/vendor/wow.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nice-select-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/vendor/nice-select.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-rig-global-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/global.min.css?ver=1.1' type='text/css' media='all' />
+<style id='wp-rig-global-inline-css' type='text/css'>
+.footer {
+						background-color: #fbfafa !important;
+					}
+.css_prefix-breadcrumb-one { background-image: url(https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/banner.png) !important; }
+.css_prefix-blog-main-list .format-link .css_prefix-blog-box .css_prefix-blog-image img { display : none !important }
+:root { }
+:root {  --content-width: 1400px !important;}
+</style>
+<link rel='stylesheet' id='wp-rig-dummy-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/dummy.min.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-rig-button-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/button.min.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-rig-sidebar-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/sidebar.min.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-rig-widgets-css'  href='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/widgets.min.css?ver=1.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/assets/js/owl.carousel.min.js?ver=1' id='iq-owl-carousel-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/assets/js/custom.js?ver=1' id='iq-widget-custom-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/intro-linker/public/js/intro-linker-public.js?ver=1.0.0' id='intro-linker-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/general.js?ver=1.1.0' id='general-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/circleChart.min.js?ver=1.1.0' id='circleChart-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/circle-chart.js?ver=1.1.0' id='circle-custom-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/jquery.fancybox.min.js?ver=1.1.0' id='fancybox-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/owl.carousel.min.js?ver=1.1.0' id='Owl-Carousel-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/owl-general.js?ver=1.1.0' id='Owl-general-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/imagesloaded.pkgd.min.js?ver=1.1.0' id='imagesloaded-pkgd-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/masonry.pkgd.min.js?ver=1.1.0' id='masonry-pkgd-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/gallery.js?ver=1.1.0' id='gallery-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/isotope.pkgd.min.js?ver=1.1.0' id='isotope-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/blog.js?ver=1.1.0' id='Blog-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/counter.js?ver=1.1.0' id='Counter-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/jquery.countTo.js?ver=1.1.0' id='jquerycountTo-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/owl.carousel.min.js?ver=1.1.0' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/accordion.js?ver=1.1.0' id='accordions-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/slick.min.js?ver=1.1.0' id='slick-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/testimonial.js?ver=1.1.0' id='Testimonial-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/product.js?ver=1.1.0' id='product-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/jquery.magnific-popup.min.js?ver=1.1.0' id='magnific-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/iqonic-extensions/includes/Elementor/assets/js/videopopup.js?ver=1.1.0' id='videopopup-js'></script>
+<link rel="https://api.w.org/" href="https://wordpress.iqonic.design/product/wp/farmin/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wordpress.iqonic.design/product/wp/farmin/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://wordpress.iqonic.design/product/wp/farmin/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9" />
+<meta name="generator" content="WooCommerce 6.2.0" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WNGH9RL');window.tag_manager_event='wordpress-preview';window.tag_manager_product='Farmin';</script>
+<!-- End Google Tag Manager --><meta name="framework" content="Redux 4.3.5" /><link rel="preload" id="wp-rig-dummy-preload" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/dummy.min.css?ver=1.1" as="style">
+<link rel="preload" id="wp-rig-sidebar-preload" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/sidebar.min.css?ver=1.1" as="style">
+<link rel="preload" id="wp-rig-widgets-preload" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/css/widgets.min.css?ver=1.1" as="style">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" sizes="32x32" />
+<link rel="icon" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" />
+<meta name="msapplication-TileImage" content="https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/favicon-1.png" />
+</head>
+
+<body class="error404 wp-embed-responsive theme-farming-theme woocommerce-no-js hfeed has-sidebar elementor-default elementor-kit-8">
+          <div id="has-side-bar" class="css_prefix-menu-side-bar">
+                </div>
+              <!-- loading -->
+      <div id="loading">
+        <div id="loading-center">
+                      <img src="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/images/redux/loader.gif" alt="loader">
+                  </div>
+      </div>
+      <!-- loading End -->
+       
+  <div id="page" class="site css_prefix">
+
+    <a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+      
+    <header id="main-header" class="site-header  css_prefix-header-style-one">
+      <div class="container">
+        <div class="row">
+          
+
+<div class="col-md-12">
+    <div class="css_prefix-top-header">
+        <div class="row align-items-center">
+            <div class="col-auto">
+                <a class="navbar-brand" href="https://wordpress.iqonic.design/product/wp/farmin/">
+                                                    <img class="img-fluid logo" src="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/images/logo.png" alt="wp-rig">
+                                            </a>
+            </div>
+            <div class="col text-right">
+                <ul class="top-details">
+                    <li>
+                                                    <div class="css_prefix-address">
+                                <div class="icon">
+                                    <svg width="25" height="30" viewBox="0 0 25 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.9999 2H12.0333C16.7197 2.01842 20.5183 5.84197 20.4999 10.5223V10.6153C20.4366 13.96 18.4258 16.7356 16.7504 18.4746C16.2736 18.9718 15.7661 19.4489 15.2427 19.8944C14.9292 20.1619 14.4586 20.1251 14.1908 19.812C13.923 19.498 13.9607 19.028 14.2742 18.7605C14.7589 18.3475 15.2304 17.9037 15.6739 17.4416C17.1649 15.8946 18.9527 13.4487 19.0071 10.5881C19.022 6.65842 15.8916 3.50574 12.0272 3.48996H11.9999C8.14862 3.48996 5.00768 6.61194 4.99276 10.4609C5.05861 12.3622 5.70138 14.1696 6.85256 15.6859C8.19604 17.4749 10.2341 19.3691 12.1712 20.6302C12.5171 20.8547 12.6146 21.316 12.3889 21.6615C12.2467 21.8807 12.007 22 11.7628 22C11.6232 22 11.4827 21.9614 11.3563 21.879C9.28224 20.5293 7.0993 18.5 5.66011 16.5839C4.32453 14.8238 3.57727 12.7235 3.5 10.5127C3.51844 5.78585 7.32848 2 11.9999 2ZM10.2552 10.6141C10.2552 11.5727 11.0367 12.354 11.9973 12.354C12.9579 12.354 13.7394 11.5727 13.7394 10.6141C13.7394 9.65474 12.9579 8.87337 11.9973 8.87337C11.5855 8.87337 11.2509 8.54012 11.2509 8.12883C11.2509 7.71665 11.5855 7.38341 11.9973 7.38341C13.7807 7.38341 15.2322 8.83215 15.2322 10.6141C15.2322 12.3952 13.7807 13.844 11.9973 13.844C10.2139 13.844 8.76241 12.3952 8.76241 10.6141C8.76241 10.202 9.09696 9.86872 9.50879 9.86872C9.92061 9.86872 10.2552 10.202 10.2552 10.6141Z" fill="#130F26" />
+                                    </svg>
+                                </div>
+                                <div class="content">
+                                                                            <p>Visit</p>
+                                                                        <h6 class="text">1901 Thornridge Cir. Shiloh,</h6>
+                                </div>
+                            </div>                     </li>
+                    <li>
+                                                    <div class="css_prefix-email">
+                                <div class="icon">
+                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M22 10.3069C22 10.7006 21.6832 11.0198 21.2923 11.0198L21.2835 11.002C21.0958 11.002 20.9158 10.9269 20.7831 10.7932C20.6504 10.6595 20.5759 10.4782 20.5759 10.2891V8.84554C20.5519 6.41955 18.6055 4.45879 16.1973 4.43465H7.80274C5.39451 4.45879 3.44811 6.41955 3.42415 8.84554V15.1545C3.44811 17.5805 5.39451 19.5412 7.80274 19.5653H16.1973C18.6055 19.5412 20.5519 17.5805 20.5759 15.1545C20.6163 14.7891 20.923 14.5127 21.2879 14.5127C21.6529 14.5127 21.9595 14.7891 22 15.1545C21.9903 18.3788 19.398 20.9902 16.1973 21H7.80274C4.6 20.9951 2.00487 18.3808 2 15.1545V8.84554C2 5.61714 4.59798 3 7.80274 3H16.1973C19.398 3.00979 21.9903 5.6212 22 8.84554V10.3069ZM12.7386 11.8574L16.8518 8.54257H16.8607C17.167 8.29731 17.6119 8.34491 17.8602 8.6495C17.9785 8.798 18.0329 8.988 18.0113 9.17715C17.9897 9.36629 17.8939 9.53888 17.7452 9.65644L13.632 12.9802C12.5862 13.828 11.0954 13.828 10.0495 12.9802L5.92747 9.65644C5.6251 9.40629 5.57785 8.95805 5.82132 8.6495C5.93771 8.50163 6.10817 8.40703 6.29443 8.38693C6.4807 8.36682 6.66718 8.4229 6.81203 8.54257L10.9695 11.8574C11.4888 12.2679 12.2193 12.2679 12.7386 11.8574Z" fill="#130F26" />
+                                    </svg>
+                                </div>
+                                <div class="content">
+                                                                            <p>Mail</p>
+                                                                        <h6 class="text">support@example.com</h6>
+                                </div>
+                            </div>                     </li>
+
+                    <li>
+                                                            <nav class="navbar css_prefix-account">
+                                    <div class="css_prefix-users-settings user-btn css_prefix-usermenu-dropdown dropdown">
+                                        
+                                            <a class="css_prefix-button" href="https://wordpress.iqonic.design/product/wp/farmin/login/">
+                                                Sign In                                            </a>
+                                                                                </div>
+                                </nav>
+                                                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-12">
+    <nav id="site-navigation" class="navbar navbar-expand-xl navbar-light p-0" aria-label="Main menu" >
+
+        <a class="navbar-brand responsive-logo" href="https://wordpress.iqonic.design/product/wp/farmin/">
+                                    <img class="img-fluid logo" src="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/images/logo.png" alt="wp-rig">
+                            </a>
+
+        <div id="navbarSupportedContent" class="collapse navbar-collapse new-collapse">
+            <div id="css_prefix-menu-container" class="menu-all-pages-container">
+                <ul id="top-menu" class="navbar-nav ml-auto"><li id="menu-item-1266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-1266"><a href="https://wordpress.iqonic.design/product/wp/farmin/">Home</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1269"><a href="https://wordpress.iqonic.design/product/wp/farmin/">Home 1</a></li>
+	<li id="menu-item-2197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2197"><a href="https://wordpress.iqonic.design/product/wp/farmin/home-2/">Home 2</a></li>
+	<li id="menu-item-3931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3931"><a href="https://wordpress.iqonic.design/product/wp/farmin/home-3/">Home 3</a></li>
+</ul>
+</li>
+<li id="menu-item-9855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9855"><a href="#">Pages</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-9854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9854"><a href="https://wordpress.iqonic.design/product/wp/farmin/about-us/">About Us</a></li>
+	<li id="menu-item-10736" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10736"><a href="https://wordpress.iqonic.design/product/wp/farmin/our-team/">Our Team</a></li>
+	<li id="menu-item-14384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14384"><a href="https://wordpress.iqonic.design/product/wp/farmin/faq/">Faq</a></li>
+	<li id="menu-item-9993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9993"><a href="https://wordpress.iqonic.design/product/wp/farmin/gallery/">Gallery</a></li>
+	<li id="menu-item-18364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18364"><a href="https://wordpress.iqonic.design/product/wp/farmin/our-history/">Our History</a></li>
+</ul>
+</li>
+<li id="menu-item-11666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11666"><a href="#">Services</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-12036" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-12036"><a href="https://wordpress.iqonic.design/product/wp/farmin/service/vegan/">Vegan</a></li>
+	<li id="menu-item-12035" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-12035"><a href="https://wordpress.iqonic.design/product/wp/farmin/service/herbs/">Herbs</a></li>
+	<li id="menu-item-12033" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-12033"><a href="https://wordpress.iqonic.design/product/wp/farmin/service/organic-farming/">Organic</a></li>
+	<li id="menu-item-12034" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-12034"><a href="https://wordpress.iqonic.design/product/wp/farmin/service/gardening/">Gardening</a></li>
+	<li id="menu-item-12032" class="menu-item menu-item-type-post_type menu-item-object-service menu-item-12032"><a href="https://wordpress.iqonic.design/product/wp/farmin/service/plantation/">Plantation</a></li>
+</ul>
+</li>
+<li id="menu-item-18353" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18353"><a>Blog</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-18352" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-18352"><a href="https://wordpress.iqonic.design/product/wp/farmin/blog/">Blog Listing</a></li>
+	<li id="menu-item-18354" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18354"><a>Blog Grid</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+	<ul class="sub-menu">
+		<li id="menu-item-10042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10042"><a href="https://wordpress.iqonic.design/product/wp/farmin/left-sidebar-column-1/">1 Column + Left Sidebar</a></li>
+		<li id="menu-item-10036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10036"><a href="https://wordpress.iqonic.design/product/wp/farmin/right-sidebar-column-1/">1 Column + Right Sidebar</a></li>
+		<li id="menu-item-10035" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10035"><a href="https://wordpress.iqonic.design/product/wp/farmin/two-column-blog/">2 Column</a></li>
+		<li id="menu-item-10043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10043"><a href="https://wordpress.iqonic.design/product/wp/farmin/left-sidebar-column-2/">2 Column + Left Sidebar</a></li>
+		<li id="menu-item-10033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10033"><a href="https://wordpress.iqonic.design/product/wp/farmin/right-sidebar-column-2/">2 Column + Right Sidebar</a></li>
+		<li id="menu-item-10034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10034"><a href="https://wordpress.iqonic.design/product/wp/farmin/three-column-blog/">3 Column</a></li>
+		<li id="menu-item-18139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18139"><a href="https://wordpress.iqonic.design/product/wp/farmin/3-column-blog-sidebar/">3 Column + Sidebar</a></li>
+		<li id="menu-item-18355" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18355"><a href="https://wordpress.iqonic.design/product/wp/farmin/4-column-blog-full-width/">4 Column Full Width</a></li>
+	</ul>
+</li>
+	<li id="menu-item-18356" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18356"><a>Blog Single</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+	<ul class="sub-menu">
+		<li id="menu-item-18362" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18362"><a href="https://wordpress.iqonic.design/product/wp/farmin/vertical-farming-is-taking-off-in-u-s-a-through-education/">Standard</a></li>
+		<li id="menu-item-18360" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18360"><a href="https://wordpress.iqonic.design/product/wp/farmin/farming-is-about-commitment-to-land/">Audio</a></li>
+		<li id="menu-item-18361" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18361"><a href="https://wordpress.iqonic.design/product/wp/farmin/agriculture-is-more-than-just-cows-plows/">Video</a></li>
+		<li id="menu-item-18359" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18359"><a href="https://wordpress.iqonic.design/product/wp/farmin/growing-green-fields-and-a-green-environment/">Gallery</a></li>
+		<li id="menu-item-18357" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18357"><a href="https://wordpress.iqonic.design/product/wp/farmin/farmers-are-respectable-farming-is-matchless/">Link</a></li>
+		<li id="menu-item-18358" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-18358"><a href="https://wordpress.iqonic.design/product/wp/farmin/bringing-you-the-goodness-of-nature/">Quote</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-18176" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18176"><a href="https://wordpress.iqonic.design/product/wp/farmin/shop/">Shop</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+<ul class="sub-menu">
+	<li id="menu-item-18335" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18335"><a>Shop List</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+	<ul class="sub-menu">
+		<li id="menu-item-18338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18338"><a href="https://wordpress.iqonic.design/product/wp/farmin/shop-with-left-sidebar/">left sidebar</a></li>
+		<li id="menu-item-18337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18337"><a href="https://wordpress.iqonic.design/product/wp/farmin/shop-with-right-sidebar/">Right Sidebar</a></li>
+		<li id="menu-item-18336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18336"><a href="https://wordpress.iqonic.design/product/wp/farmin/shop-with-no-sidebar/">No Sidebar</a></li>
+	</ul>
+</li>
+	<li id="menu-item-18339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18339"><a>Shop Grid</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+	<ul class="sub-menu">
+		<li id="menu-item-18347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18347"><a href="https://wordpress.iqonic.design/product/wp/farmin/two-column/">Two Column</a></li>
+		<li id="menu-item-18346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18346"><a href="https://wordpress.iqonic.design/product/wp/farmin/three-column/">Three Column</a></li>
+		<li id="menu-item-18345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18345"><a href="https://wordpress.iqonic.design/product/wp/farmin/three-column-full-width/">three column + full width</a></li>
+		<li id="menu-item-18344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18344"><a href="https://wordpress.iqonic.design/product/wp/farmin/four-column/">Four Column</a></li>
+		<li id="menu-item-18343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18343"><a href="https://wordpress.iqonic.design/product/wp/farmin/four-column-full-width/">Four Column + Full Width</a></li>
+		<li id="menu-item-18342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18342"><a href="https://wordpress.iqonic.design/product/wp/farmin/five-column/">Five Column</a></li>
+	</ul>
+</li>
+	<li id="menu-item-18340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18340"><a>Product Type</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+	<ul class="sub-menu">
+		<li id="menu-item-18348" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-18348"><a href="https://wordpress.iqonic.design/product/wp/farmin/product/mix-spring/">Product Standard</a></li>
+		<li id="menu-item-18350" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-18350"><a href="https://wordpress.iqonic.design/product/wp/farmin/product/basil-thai/">Product Sale</a></li>
+		<li id="menu-item-18349" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-18349"><a href="https://wordpress.iqonic.design/product/wp/farmin/product/arugula/">Product New</a></li>
+	</ul>
+</li>
+	<li id="menu-item-18341" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18341"><a>Shop Page</a><span class="dropdown"><i class="dropdown-symbol"></i></span>
+	<ul class="sub-menu">
+		<li id="menu-item-1267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1267"><a href="https://wordpress.iqonic.design/product/wp/farmin/cart/">Cart</a></li>
+		<li id="menu-item-18351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18351"><a href="https://wordpress.iqonic.design/product/wp/farmin/wishlist/">Wishlist</a></li>
+		<li id="menu-item-1268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1268"><a href="https://wordpress.iqonic.design/product/wp/farmin/checkout/">Checkout</a></li>
+		<li id="menu-item-18363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18363"><a href="https://wordpress.iqonic.design/product/wp/farmin/order-tracking/">Order Tracking</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-10738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10738"><a href="https://wordpress.iqonic.design/product/wp/farmin/contact-us/">Contact Us</a></li>
+</ul>                <div class="css_prefix-shop-btn-holder css_prefix-desktop">
+                    <ul>
+                        <li>
+                            <div class="search_count">
+                                <a href="javascript:void(0);" id="btn-search">
+                                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M15.8044 14.8852L13.0545 12.1967L12.9901 12.0986C12.8702 11.9793 12.7064 11.9121 12.5353 11.9121C12.3643 11.9121 12.2004 11.9793 12.0806 12.0986C9.74359 14.2427 6.14252 14.3592 3.6656 12.371C1.18869 10.3827 0.604535 6.90669 2.30055 4.24814C3.99656 1.58958 7.44646 0.573478 10.3623 1.87371C13.2781 3.17394 14.755 6.38703 13.8136 9.38208C13.7458 9.59844 13.8012 9.83374 13.959 9.99933C14.1167 10.1649 14.3529 10.2356 14.5784 10.1849C14.804 10.1341 14.9847 9.96952 15.0525 9.75315C16.1779 6.19892 14.4782 2.37404 11.0529 0.752846C7.62759 -0.868351 3.50467 0.200659 1.35124 3.26833C-0.802184 6.33601 -0.339857 10.4817 2.43914 13.0236C5.21815 15.5655 9.47983 15.7407 12.4673 13.4359L14.9021 15.8164C15.1536 16.0612 15.5601 16.0612 15.8116 15.8164C16.0628 15.5682 16.0628 15.1685 15.8116 14.9202L15.8044 14.8852Z" fill="#171717" />
+                                    </svg>
+                                </a>
+                                <div class="search">
+                                    <button id="btn-search-close" class="btn btn--search-close" aria-label="Close search form">
+                                        <i class="fa fa-times"></i>
+
+                                    </button>
+                                    <form method="get" class="search-form search__form" action="https://wordpress.iqonic.design/product/wp/farmin/">
+	<div class="form-row">
+	<input type="search" id="search-form-620b4a6284147" class="search-field search__input" name="s" placeholder="Search website" />
+ <button type="submit" class="search-submit" ><i class="fa fa-search" aria-hidden="true"></i><span class="screen-reader-text">Search</span></button> 
+</div>
+</form>                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="css_prefix-shop-btn-holder css_prefix-mobile">
+            <ul>
+                <li>
+                    <div class="search_count">
+                        <a href="javascript:void(0);" id="btn-search2">
+                            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M15.8044 14.8852L13.0545 12.1967L12.9901 12.0986C12.8702 11.9793 12.7064 11.9121 12.5353 11.9121C12.3643 11.9121 12.2004 11.9793 12.0806 12.0986C9.74359 14.2427 6.14252 14.3592 3.6656 12.371C1.18869 10.3827 0.604535 6.90669 2.30055 4.24814C3.99656 1.58958 7.44646 0.573478 10.3623 1.87371C13.2781 3.17394 14.755 6.38703 13.8136 9.38208C13.7458 9.59844 13.8012 9.83374 13.959 9.99933C14.1167 10.1649 14.3529 10.2356 14.5784 10.1849C14.804 10.1341 14.9847 9.96952 15.0525 9.75315C16.1779 6.19892 14.4782 2.37404 11.0529 0.752846C7.62759 -0.868351 3.50467 0.200659 1.35124 3.26833C-0.802184 6.33601 -0.339857 10.4817 2.43914 13.0236C5.21815 15.5655 9.47983 15.7407 12.4673 13.4359L14.9021 15.8164C15.1536 16.0612 15.5601 16.0612 15.8116 15.8164C16.0628 15.5682 16.0628 15.1685 15.8116 14.9202L15.8044 14.8852Z" fill="#171717" />
+                            </svg>
+                        </a>
+                        <div class="search">
+                            <button id="btn-search-close2" class="btn btn--search-close2" aria-label="Close search form">
+                                <i class="fa fa-times"></i>
+                            </button>
+                            <form method="get" class="search-form search__form" action="https://wordpress.iqonic.design/product/wp/farmin/">
+	<div class="form-row">
+	<input type="search" id="search-form-620b4a62841b2" class="search-field search__input" name="s" placeholder="Search website" />
+ <button type="submit" class="search-submit" ><i class="fa fa-search" aria-hidden="true"></i><span class="screen-reader-text">Search</span></button> 
+</div>
+</form>                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="css_prefix-right-contact">
+                                <div class="css_prefix-cart">
+                        <a class="dropdown-toggle" type="button" id="dropdown-menu-mini-cart" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <svg width="23" height="22" viewBox="0 0 23 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M1 1H2.97524L3.38454 2.7443" stroke="#2C604A" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M7.11821 4.85645H22L18.3678 14.8145H5.49163L3.87415 4.85645" stroke="#2C604A" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M8.88614 21.0002C10.0273 21.0002 10.9523 20.0697 10.9523 18.922C10.9523 17.7742 10.0273 16.8438 8.88614 16.8438C7.74501 16.8438 6.81995 17.7742 6.81995 18.922C6.81995 20.0697 7.74501 21.0002 8.88614 21.0002Z" stroke="#2C604A" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M15.9817 21.0002C17.1228 21.0002 18.0479 20.0697 18.0479 18.922C18.0479 17.7742 17.1228 16.8438 15.9817 16.8438C14.8406 16.8438 13.9155 17.7742 13.9155 18.922C13.9155 20.0697 14.8406 21.0002 15.9817 21.0002Z" stroke="#2C604A" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                            <span class="cart-items-count count">
+                                                                <div id="css_prefix_count">
+                                    0                                </div>
+                            </span>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="dropdown-menu-mini-cart">
+                            <div class="widget_shopping_cart_content">
+                                
+
+	<p class="woocommerce-mini-cart__empty-message">No products in the cart.</p>
+
+
+                            </div>
+                        </div>
+                    </div> 
+                
+            <div class="css_prefix-contact">
+                                    <svg width="25" height="30" viewBox="0 0 25 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M13.6164 2.66067C13.6625 2.25321 14.0269 1.95354 14.4305 2.00596C18.4353 2.45298 21.5464 5.58217 21.9952 9.61431C22.0414 10.0218 21.7497 10.3897 21.3461 10.4342C21.3176 10.4372 21.2901 10.4391 21.2626 10.4391C20.8933 10.4391 20.5742 10.1592 20.5319 9.78046C20.1588 6.44161 17.5838 3.85044 14.2675 3.47956C13.8629 3.43407 13.5722 3.06814 13.6164 2.66067ZM3.83637 5.62202C3.33062 6.32223 3.36597 7.22024 3.90905 8.42187C4.07698 8.79472 3.91396 9.23384 3.54372 9.40395C3.17448 9.57405 2.73648 9.40889 2.56855 9.03604C1.79666 7.32804 1.81041 5.90191 2.61176 4.80017C2.78067 4.51336 4.64951 2.09823 6.39853 2.21394C6.90429 2.25548 7.36781 2.49383 7.80384 2.92206C8.26639 3.37601 10.2138 5.76048 10.3699 6.51805C10.5377 7.32931 10.1761 7.96286 9.912 8.42561L9.91131 8.42682C9.65107 8.88275 9.56072 9.07758 9.65009 9.32384C10.3081 10.9438 11.3235 12.2661 12.6581 13.2264C12.989 13.4658 13.0656 13.9276 12.829 14.2619C12.6856 14.4637 12.4597 14.5724 12.2299 14.5724C12.0816 14.5724 11.9314 14.5279 11.8018 14.434C10.2374 13.3075 9.05104 11.7686 8.27522 9.85691C7.93445 8.91242 8.33906 8.20429 8.63465 7.68705C8.8566 7.29936 8.97935 7.06794 8.9273 6.82069C8.78982 6.46366 7.35308 4.55193 6.77466 3.98425C6.59592 3.80722 6.42799 3.70337 6.30327 3.69348C5.64138 3.66282 4.16241 5.07808 3.83637 5.62202ZM15.1055 14.1869C15.6554 13.8388 16.4096 13.3651 17.3671 13.5639C18.1184 13.7201 20.4851 15.6813 20.9368 16.1481C21.3621 16.5852 21.5987 17.0521 21.639 17.5367C21.7028 19.3574 19.2792 21.2622 19.0022 21.4224C18.4729 21.8062 17.8532 22 17.1569 22C16.4636 22 15.6937 21.8081 14.8599 21.4185C11.6526 20.0754 6.80225 15.7268 4.07609 11.7362C3.84531 11.3999 3.92977 10.9381 4.26464 10.7047C4.59952 10.4752 5.05912 10.5573 5.28892 10.8965C7.83537 14.6221 12.4903 18.8194 15.4531 20.0606C16.6522 20.6203 17.5449 20.655 18.2077 20.1763C18.7243 19.8598 20.1954 18.3892 20.1689 17.6237C20.16 17.5337 20.0579 17.3646 19.8841 17.1846C19.3184 16.6011 17.4211 15.1552 17.0244 15.0048C16.7082 14.9405 16.386 15.1285 15.8901 15.442L15.6348 15.6022C15.2861 15.8128 14.8324 15.6981 14.6243 15.349C14.4141 14.9969 14.527 14.541 14.8757 14.3303L15.1055 14.1869ZM17.0616 9.8484C17.1303 10.2025 17.4387 10.4477 17.7834 10.4477C17.8305 10.4477 17.8787 10.4438 17.9258 10.4349C18.3255 10.3567 18.5857 9.96609 18.5081 9.56456C18.1094 7.50745 16.5323 5.91912 14.4896 5.51858C14.0958 5.45033 13.704 5.70352 13.6254 6.10505C13.5478 6.50658 13.8091 6.89724 14.2078 6.97537C15.6582 7.25921 16.7788 8.38666 17.0616 9.8484Z" fill="#130F26" />
+                    </svg>
+
+                    <h5 class="css_prefix-contact-number">+0123456789</h5>             </div>
+        </div>
+
+                    <button type="button" class="navbar-toggler" data-toggle="collapse" aria-label="Open menu" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" >
+                Menu                <span class="css_prefix-menu-box">
+                    <span class="moblie-menu">
+                        <span class="hamburger"></span>
+                    </span>
+                </span>
+            </button>
+        
+
+    </nav>
+</div>        </div>
+      </div>
+    </header><!-- #masthead -->
+    	<main id="primary" class="site-main">
+		<div>
+	<div class="container">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main">
+				<div class="error-404 not-found">
+					<div class="page-content">
+						<div class="row">
+							<div class="col-sm-12 text-center">
+								<div class="routed-text text-effect">
+
+									<div class="main-shap-box">
+										<div class="shap-one"></div>
+										<div class="shap-two"></div>
+
+																					<div class="fourzero-image mb-5">
+												<img src="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/images/redux/404.svg" alt="404" />
+											</div>
+									</div>
+								</div>
+															<h4> Oops! This Page is Not Found.								</h4> 								<p class="mb-5">
+									The requested page does not exist.								</p> 
+							<div class="d-block">
+								<a class="css_prefix-button" href="https://wordpress.iqonic.design/product/wp/farmin">
+										<span class="text-btn">Back to Home										</span>
+								</a>
+
+							</div>
+							</div>
+						</div>
+					</div><!-- .page-content -->
+				</div><!-- .error-404 -->
+			</main><!-- #main -->
+		</div><!-- #primary -->
+	</div><!-- .container -->
+</div>	</main><!-- #primary -->
+	
+<footer id="colophon" class="footer" >
+	
+<div class="footer-top-bar">
+    <div class="container">
+	    <div class="row">
+		    <div class="col-lg-4 col-md-6 col-sm-12">
+		        					<div class="css_prefix-footer-address" onmouseover="this.style='background-image: url(https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/PATTERN.png);';" onmouseout="this.style='background: #ffffff';">
+						<div class="contact-icon">
+							<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" clip-rule="evenodd" d="M11.9999 2H12.0333C16.7197 2.01842 20.5183 5.84197 20.4999 10.5223V10.6153C20.4366 13.96 18.4258 16.7356 16.7504 18.4746C16.2736 18.9718 15.7661 19.4489 15.2427 19.8944C14.9292 20.1619 14.4586 20.1251 14.1908 19.812C13.923 19.498 13.9607 19.028 14.2742 18.7605C14.7589 18.3475 15.2304 17.9037 15.6739 17.4416C17.1649 15.8946 18.9527 13.4487 19.0071 10.5881C19.022 6.65842 15.8916 3.50574 12.0272 3.48996H11.9999C8.14862 3.48996 5.00768 6.61194 4.99276 10.4609C5.05861 12.3622 5.70138 14.1696 6.85256 15.6859C8.19604 17.4749 10.2341 19.3691 12.1712 20.6302C12.5171 20.8547 12.6146 21.316 12.3889 21.6615C12.2467 21.8807 12.007 22 11.7628 22C11.6232 22 11.4827 21.9614 11.3563 21.879C9.28224 20.5293 7.0993 18.5 5.66011 16.5839C4.32453 14.8238 3.57727 12.7235 3.5 10.5127C3.51844 5.78585 7.32848 2 11.9999 2ZM10.2552 10.6141C10.2552 11.5727 11.0367 12.354 11.9973 12.354C12.9579 12.354 13.7394 11.5727 13.7394 10.6141C13.7394 9.65474 12.9579 8.87337 11.9973 8.87337C11.5855 8.87337 11.2509 8.54012 11.2509 8.12883C11.2509 7.71665 11.5855 7.38341 11.9973 7.38341C13.7807 7.38341 15.2322 8.83215 15.2322 10.6141C15.2322 12.3952 13.7807 13.844 11.9973 13.844C10.2139 13.844 8.76241 12.3952 8.76241 10.6141C8.76241 10.202 9.09696 9.86872 9.50879 9.86872C9.92061 9.86872 10.2552 10.202 10.2552 10.6141Z" fill="#130F26"/>
+							</svg>
+						</div>
+						<h5 class="content">2715 Ash Dr. San Jose,
+South Dakota 83475</h5>
+					</div> 		    </div>
+			<div class="col-lg-4 col-md-6 col-sm-12">
+									<div class="css_prefix-footer-email" onmouseover="this.style='background-image: url(https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/PATTERN.png);';" onmouseout="this.style='background: #ffffff';">
+						<div class="contact-icon">
+							<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" clip-rule="evenodd" d="M22 10.3069C22 10.7006 21.6832 11.0198 21.2923 11.0198L21.2835 11.002C21.0958 11.002 20.9158 10.9269 20.7831 10.7932C20.6504 10.6595 20.5759 10.4782 20.5759 10.2891V8.84554C20.5519 6.41955 18.6055 4.45879 16.1973 4.43465H7.80274C5.39451 4.45879 3.44811 6.41955 3.42415 8.84554V15.1545C3.44811 17.5805 5.39451 19.5412 7.80274 19.5653H16.1973C18.6055 19.5412 20.5519 17.5805 20.5759 15.1545C20.6163 14.7891 20.923 14.5127 21.2879 14.5127C21.6529 14.5127 21.9595 14.7891 22 15.1545C21.9903 18.3788 19.398 20.9902 16.1973 21H7.80274C4.6 20.9951 2.00487 18.3808 2 15.1545V8.84554C2 5.61714 4.59798 3 7.80274 3H16.1973C19.398 3.00979 21.9903 5.6212 22 8.84554V10.3069ZM12.7386 11.8574L16.8518 8.54257H16.8607C17.167 8.29731 17.6119 8.34491 17.8602 8.6495C17.9785 8.798 18.0329 8.988 18.0113 9.17715C17.9897 9.36629 17.8939 9.53888 17.7452 9.65644L13.632 12.9802C12.5862 13.828 11.0954 13.828 10.0495 12.9802L5.92747 9.65644C5.6251 9.40629 5.57785 8.95805 5.82132 8.6495C5.93771 8.50163 6.10817 8.40703 6.29443 8.38693C6.4807 8.36682 6.66718 8.4229 6.81203 8.54257L10.9695 11.8574C11.4888 12.2679 12.2193 12.2679 12.7386 11.8574Z" fill="#130F26"/>
+							</svg>
+						</div>
+						<h5 class="content">working@gmail.com
+order@product.com</h5>
+					</div> 				
+			</div>
+			<div class="col-lg-4 col-md-6 col-sm-12">
+				 
+					<div class="css_prefix-footer-phone" onmouseover="this.style='background-image: url(https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/PATTERN.png);';" onmouseout="this.style='background: #ffffff';">
+						<div class="contact-icon">
+							<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" clip-rule="evenodd" d="M3.87038 5.44798C3.35536 6.15562 3.39136 7.06216 3.94438 8.27653C4.11538 8.65334 3.94938 9.09711 3.57237 9.26903C3.19436 9.43994 2.75135 9.27502 2.57934 8.89722C1.79232 7.1711 1.80732 5.72984 2.62334 4.61741C2.92735 4.10867 4.8384 1.8968 6.47944 2.00375C6.99546 2.04673 7.46747 2.28661 7.91048 2.71838C8.38249 3.17915 10.3645 5.58991 10.5235 6.35252C10.6944 7.17238 10.3262 7.81265 10.0572 8.28031L10.0565 8.28153C9.79153 8.7423 9.69952 8.9392 9.79053 9.18807C10.4595 10.8242 11.4936 12.1615 12.8546 13.133C13.1916 13.3749 13.2686 13.8427 13.0276 14.1795C12.8816 14.3834 12.6516 14.4933 12.4176 14.4933C12.2656 14.4933 12.1136 14.4474 11.9816 14.3534C10.3875 13.213 9.17951 11.6568 8.39049 9.72679C8.04348 8.77228 8.45549 8.05665 8.7565 7.53392C8.98251 7.14212 9.10751 6.90824 9.05451 6.65836C8.9145 6.29755 7.45247 4.36754 6.86245 3.79283C6.68045 3.61392 6.50944 3.50898 6.38244 3.49898C5.66642 3.48199 4.20238 4.89727 3.87038 5.44798ZM17.6476 13.4734C18.4136 13.6323 20.8227 15.6133 21.2837 16.084C21.7177 16.5278 21.9577 17.0006 21.9987 17.4873C22.0637 19.3294 19.5967 21.2544 19.3137 21.4163C18.7757 21.8041 18.1446 22 17.4346 22C16.7286 22 15.9446 21.8061 15.0956 21.4103C11.8305 20.055 6.89235 15.6602 4.11428 11.6273C3.87928 11.2865 3.96528 10.8197 4.30629 10.5849C4.6483 10.353 5.11531 10.4369 5.34931 10.7778C7.94438 14.5448 12.6845 18.7856 15.7006 20.039C16.9206 20.6057 17.8286 20.6407 18.5047 20.1559C19.0317 19.8371 20.5287 18.3499 20.5017 17.5763C20.4927 17.4853 20.3887 17.3144 20.2117 17.1335C19.6357 16.5438 17.7026 15.0815 17.2986 14.9296C16.9796 14.8617 16.6476 15.0556 16.1416 15.3744L15.8856 15.5333C15.5306 15.7462 15.0696 15.6333 14.8556 15.2774C14.6426 14.9236 14.7566 14.4629 15.1116 14.249L15.3426 14.106C15.9026 13.7532 16.6756 13.2715 17.6476 13.4734Z" fill="#130F26"/>
+							</svg>
+						</div>
+						<h5 class="content">(208) 444-0852
+(208) 555-0112</h5>
+					</div> 			</div>
+	    </div>
+	</div>
+</div>
+
+<div class="footer-top">
+	<div class="container">
+		<div class="row">
+								<div class="col-lg-4 col-sm-12 footer_column_space">
+						<div class="widget widget_iq_footer_logo text-left">
+			<div class="footer-logo">
+				<a href="https://wordpress.iqonic.design/product/wp/farmin/">
+											<img class="img-fluid" src="https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/images/logo.png" alt="footer-logo">
+									</a>
+			</div> </div><div class="widget widget_block widget_text text-left">
+<p>Lorem ipsum is simply free text dolor sit amet, notted elit sed do eiusmod tempor. Lorem ipsum is simply free text dolor</p>
+</div><div class="widget widget_block text-left"><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.6 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-1322" method="post" data-id="1322" data-name="" ><div class="mc4wp-form-fields"><div class="footer-mail">
+<input type="email" name="EMAIL" placeholder="Email" required />
+    <button type="submit" value="Sign up"> <i class="fa fa-paper-plane"></i></button>
+</div></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1644907106" /><input type="hidden" name="_mc4wp_form_id" value="1322" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div><div class="widget widget_iq_socail_media text-left">			<div class="css_prefix-share">
+				   				<ul class="m-0 d-inline">
+					<li class="d-inline list-inline-item"><a target="_blank" href="https://www.facebook.com/"><i class="fab fa-facebook"></i></a></li><li class="d-inline list-inline-item"><a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a></li><li class="d-inline list-inline-item"><a target="_blank" href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a></li>				</ul>
+			</div>
+		</div>					</div>
+			      					<div class="col-lg-5 col-sm-6 mt-5 mt-md-0 footer_column_space">
+						
+		<div class="css_prefix-widget-menu css_prefix-recent-post widget ">
+			<h4 class="footer-title">Blog<span class="dot_">  </span></h4>			<div class="list-inline css_prefix-widget-menu">
+				<ul class=" css_prefix-post">
+											<li>
+							<div class="post-img">
+																	<div class="post-img-holder">
+										<a href="https://wordpress.iqonic.design/product/wp/farmin/farmers-are-respectable-farming-is-matchless/" style="background-image:url('https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2022/02/posttype03.jpg')">
+										</a>
+									</div>
+								   								<div class="post-blog">
+									<div class="blog-box">
+										<a class="new-link" href="https://wordpress.iqonic.design/product/wp/farmin/farmers-are-respectable-farming-is-matchless/">
+											<h5 class="css_prefix_post_title">
+												Farmers Are Respectable. Farming Is Matchless.											</h5>
+										</a>
+										<ul class="list-inline">
+											  												<li class="list-inline-item  mr-3"><a href="https://wordpress.iqonic.design/product/wp/farmin/farmers-are-respectable-farming-is-matchless/">February 5, 2022</a></li>
+											   																					</ul>
+								    </div>
+							    </div>
+						    </div>
+					    </li>
+
+					    						<li>
+							<div class="post-img">
+																	<div class="post-img-holder">
+										<a href="https://wordpress.iqonic.design/product/wp/farmin/bringing-you-the-goodness-of-nature/" style="background-image:url('https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2022/02/posttype02.jpg')">
+										</a>
+									</div>
+								   								<div class="post-blog">
+									<div class="blog-box">
+										<a class="new-link" href="https://wordpress.iqonic.design/product/wp/farmin/bringing-you-the-goodness-of-nature/">
+											<h5 class="css_prefix_post_title">
+												Bringing You The Goodness Of Nature											</h5>
+										</a>
+										<ul class="list-inline">
+											  												<li class="list-inline-item  mr-3"><a href="https://wordpress.iqonic.design/product/wp/farmin/bringing-you-the-goodness-of-nature/">February 5, 2022</a></li>
+											   																					</ul>
+								    </div>
+							    </div>
+						    </div>
+					    </li>
+
+					    				</ul>
+			</div>
+
+		</div>
+						</div>
+			      					<div class="col-lg-3 col-sm-6 mt-5 mt-lg-0 mt-md-0 footer_column_space">
+							    <div class="footer-block">
+			<div class="widget" style="background-image:url('https://wordpress.iqonic.design/product/wp/farmin/wp-content/uploads/2021/08/PATTERN.png');
+			background-color:#2c604a">
+									<h4 class="footer-title contact-info iq-heading-title">Opening Hours</h4>
+								<div class="row">
+					<div class="col-sm-12">
+						<ul class="iq-contact">
+																<li class="iq-week">
+										<span class="iq-week-day">Mon - Sat:</span>
+										<span class="iq-time">09 Am to 05 Pm</span>
+									</li>
+																<li class="iq-week">
+										<span class="iq-week-day">Sunday:</span>
+										<span class="iq-time">Closed</span>
+									</li>
+														  <li class="iq-contact-desc">
+							  	<div class="iq-week-day-desc">
+							  	*Happy Hour Every Friday Night Between 2 &#8211; 6 Pm							  	</div>
+							</li>
+							<li class="iq-footer-contact-card">
+								<div class="card">
+									<h5> 24*7 hours Support</h5>	
+									<div class="contact">
+										<div class="icon">
+										<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.0081 0C13.9494 0 15.8833 0.478879 17.6016 1.38484C23.4519 4.47166 25.7017 11.7426 22.617 17.5949C20.513 21.5855 16.3704 24 11.9944 24C11.1394 24 10.276 23.908 9.41689 23.7177C8.93289 23.6099 8.62748 23.13 8.73422 22.6458C8.84095 22.1617 9.31967 21.8583 9.80684 21.9629C14.2759 22.9566 18.8898 20.8117 21.0276 16.7566C23.6505 11.7817 21.7378 5.59856 16.7636 2.97476C15.3031 2.20411 13.6588 1.79712 12.007 1.79712H11.9954C6.37233 1.79712 1.79652 6.37343 1.79652 11.9984C1.7944 13.637 2.19386 15.2681 2.95157 16.7174L3.18194 17.1678C3.4641 17.6963 3.52645 18.3528 3.34363 18.9469C3.09106 19.6129 2.88076 20.2609 2.70745 20.9058C3.38167 20.7028 4.2049 20.4036 4.79986 20.1869L5.04397 20.0992C5.50578 19.9269 6.02466 20.1711 6.19374 20.6383C6.36282 21.1045 6.12082 21.6204 5.65479 21.7885L5.41384 21.8762L5.37292 21.8911C4.48701 22.2121 3.29411 22.6444 2.48448 22.8255C2.41473 22.8403 2.3397 22.8498 2.27101 22.8477C1.71937 22.8477 1.38332 22.6247 1.19839 22.4365C0.914114 22.1479 0.778847 21.743 0.794699 21.2335C0.796812 21.1754 0.80421 21.1151 0.817948 21.057C1.03142 20.1478 1.30935 19.2408 1.6454 18.3623C1.66971 18.2767 1.65491 18.1213 1.58622 17.9913L1.35479 17.542C0.468157 15.8442 -0.00210645 13.9234 7.09305e-06 11.9974C7.09305e-06 5.38184 5.38108 0 11.9944 0H12.0081ZM5.28413 11.9987C5.28413 11.2111 5.92348 10.5716 6.71077 10.5716C7.49807 10.5716 8.13741 11.2111 8.13741 11.9987C8.13741 12.7852 7.49807 13.4248 6.71077 13.4248C5.92348 13.4248 5.28413 12.7852 5.28413 11.9987ZM13.4215 11.9985C13.4215 11.212 12.7822 10.5713 11.9949 10.5713C11.2076 10.5713 10.5683 11.212 10.5683 11.9985C10.5683 12.785 11.2076 13.4256 11.9949 13.4256C12.7822 13.4256 13.4215 12.785 13.4215 11.9985ZM17.279 10.5713C18.0663 10.5713 18.7057 11.212 18.7057 11.9985C18.7057 12.785 18.0663 13.4256 17.279 13.4256C16.4918 13.4256 15.8524 12.785 15.8524 11.9985C15.8524 11.212 16.4918 10.5713 17.279 10.5713Z" fill="#2C604A"/>
+</svg>
+										</div>
+										<div class="conatct-number">(287) 875468</div>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+						</div>
+			      		</div>
+	</div>
+</div>    <div class="copyright-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9">
+                    <div class="row align-items-center">
+                        <div class="col-lg-6 col-md-6 order-md-1 order-2">
+                                                            <div class="row">
+                                    <div class="col-sm-12 m-0 text-md-left text-center">
+                                        <div class="pt-4 pb-4">
+                                                                                            <span class="copyright">© 2022 Farmin. All Rights Reserved.</span>
+                                                                                    </div>
+                                    </div>
+                                </div>
+                                                    </div>
+                        <!-- The menus -->
+                                                    <div class="col-lg-6 col-md-6 order-md-2 footer-menu-list">
+                                    <div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-11973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11973"><a href="https://wordpress.iqonic.design/product/wp/farmin/about-us/">About Us</a></li>
+<li id="menu-item-11974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11974"><a href="https://wordpress.iqonic.design/product/wp/farmin/contact-us/">Contact Us</a></li>
+<li id="menu-item-11975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11975"><a href="https://wordpress.iqonic.design/product/wp/farmin/our-team/">Our Team</a></li>
+<li id="menu-item-11972" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-11972"><a href="https://wordpress.iqonic.design/product/wp/farmin/blog/">Blogs</a></li>
+</ul></div>                            </div>
+                                            </div>
+                </div>
+                <div class="col-lg-3 d-none"></div>
+            </div>
+        </div>
+    </div><!-- .site-info -->
+	<!-- === back-to-top === -->
+	<div id="back-to-top">
+		<a class="top" id="top" href="#top">
+		  <i aria-hidden="true" class="fa fa-caret-up"></i>
+		</a>
+	</div>
+	<!-- === back-to-top End === -->
+</footer><!-- #colophon -->
+</div><!-- #page -->
+<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script>	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=1.2.0' id='jquery-selectBox-js'></script>
+<script type='text/javascript' src='//wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.6' id='prettyPhoto-js'></script>
+<script type='text/javascript' id='jquery-yith-wcwl-js-extra'>
+/* <![CDATA[ */
+var yith_wcwl_l10n = {"ajax_url":"\/product\/wp\/farmin\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","enable_ajax_loading":"1","ajax_loader_url":"https:\/\/wordpress.iqonic.design\/product\/wp\/farmin\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader-alt.svg","remove_from_wishlist_after_add_to_cart":"1","is_wishlist_responsive":"1","time_to_close_prettyphoto":"3000","fragments_index_glue":".","reload_on_found_variation":"1","mobile_media_query":"768","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies on your browser are enabled.","added_to_cart_message":"<div class=\"woocommerce-notices-wrapper\"><div class=\"woocommerce-message\" role=\"alert\">Product added to cart successfully<\/div><\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem","load_mobile_action":"load_mobile","delete_item_action":"delete_item","save_title_action":"save_title","save_privacy_action":"save_privacy","load_fragments":"load_fragments"},"nonce":{"add_to_wishlist_nonce":"c0e6c43acf","remove_from_wishlist_nonce":"69a51be6e2","reload_wishlist_and_adding_elem_nonce":"aaaf347053","load_mobile_nonce":"7abaa8bc9d","delete_item_nonce":"0e29b760f7","save_title_nonce":"46a26f7235","save_privacy_nonce":"127c7a50f3","load_fragments_nonce":"ce61ce16f2"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.min.js?ver=3.6.0' id='jquery-yith-wcwl-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/wordpress.iqonic.design\/product\/wp\/farmin\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.2.0' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/product\/wp\/farmin\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product\/wp\/farmin\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/wordpress.iqonic.design\/product\/wp\/farmin\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=6.2.0' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.2.0' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/product\/wp\/farmin\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product\/wp\/farmin\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=6.2.0' id='woocommerce-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/product\/wp\/farmin\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/product\/wp\/farmin\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_6ee863c1c467386657dabdd4cec12b09","fragment_name":"wc_fragments_6ee863c1c467386657dabdd4cec12b09","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=6.2.0' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/js/vendor/bootstrap.min.js?ver=1.1' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/js/vendor/wow.min.js?ver=1.1' id='wow-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/js/vendor/jquery.nice-select.min.js?ver=1.1' id='jquery.nice-select-js'></script>
+<script type='text/javascript' src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/themes/farming-theme/assets/js/custom.min.js?ver=1.1' id='js_prefix-custom-js'></script>
+<script type='text/javascript' defer src='https://wordpress.iqonic.design/product/wp/farmin/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.6' id='mc4wp-forms-api-js'></script>
+
+</body>
+
+</html>

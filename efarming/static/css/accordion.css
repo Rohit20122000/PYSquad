@@ -1,0 +1,218 @@
+/*---------------------------------------------------------------------
+					FAQ
+  -----------------------------------------------------------------------*/
+.css_prefix-accordion {
+  z-index: 9;
+  position: relative;
+}
+
+.css_prefix-accordion .css_prefix-accordion-title {
+  background: var(--color-theme-grey);
+  position: relative;
+  font-family: var(--highlight-font-family);
+  border-radius: 0px;
+  padding: 30px;
+  line-height: normal;
+  cursor: pointer;
+  display: flex;
+  color: var(--white-color);
+  font-weight: 600;
+  text-decoration: none;
+  border: none;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.css_prefix-accordion .css_prefix-accordion-title .accordion-title {
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.css_prefix-accordion .css_prefix-accordion-details {
+  display: none;
+  text-align: left;
+  padding: 0px 30px 30px 30px;
+  background: var(--color-theme-grey);
+}
+
+.css_prefix-accordion .css_prefix-accordion-details p {
+  margin: 0;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block {
+  margin-bottom: 30px;
+  border: 1px solid var(--white-light-color);
+  padding: 0;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block:last-child {
+  margin-bottom: 0 !important;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title svg,
+.css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title i {
+  vertical-align: middle;
+  color: var(--color-theme-white);
+  font-size: 12px;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title .css_prefix-icon-style {
+  position: absolute;
+  right: 30px;
+  top: 47px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  align-items: center;
+  line-height: 30px;
+  background: var(--color-theme-primary);
+  flex: none;
+  margin-left: 15px;
+}
+
+.css_prefix-accordion-block .media {
+  padding-right: 47px;
+  align-items: center;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title .css_prefix-icon-left {
+  left: 30px;
+  right: auto;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block.css_prefix-active {
+  background: var(--global-body-lightcolor);
+}
+
+.css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title i::before {
+  vertical-align: middle;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title .active svg,
+.css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title .active i {
+  display: none;
+}
+
+.css_prefix-accordion .css_prefix-accordion-block.css_prefix-active .css_prefix-accordion-title .active svg,
+.css_prefix-accordion .css_prefix-accordion-block.css_prefix-active .css_prefix-accordion-title .active i {
+  display: inline-block;
+  vertical-align: middle;
+  color: var(--color-theme-white);
+}
+
+.css_prefix-accordion .css_prefix-accordion-block.css_prefix-active .css_prefix-accordion-title .inactive svg,
+.css_prefix-accordion .css_prefix-accordion-block.css_prefix-active .css_prefix-accordion-title .inactive i {
+  display: none;
+}
+
+.css_prefix-accordion-square .css_prefix-accordion-block {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+}
+
+.css_prefix-accordion-semi-round .css_prefix-accordion-block {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.css_prefix-accordion-round .css_prefix-accordion-block {
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px;
+}
+
+.css_prefix-accordion-round .css_prefix-accordion-title,
+.css_prefix-accordion-round .css_prefix-accordion-details {
+  background: var(--white-color);
+}
+
+.css_prefix-accordion-shadow .css_prefix-accordion-block.css_prefix-active {
+  -webkit-box-shadow: -1px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  -moz-box-shadow: -1px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  box-shadow: -1px 4px 30px 0px rgba(0, 0, 0, 0.06);
+  transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  -webkit-transition: all 0.5s ease-in-out;
+}
+
+.css_prefix-accordion-classic .css_prefix-accordion-details {
+  padding: 15px 30px;
+}
+
+.css_prefix-accordion .css_prefix-active .css_prefix-accordion-title .accordion-title {
+  color: var(--global-font-title)
+}
+
+.css_prefix-accordion .css_prefix-active .css_prefix-accordion-title {
+  padding: 30px;
+  border-color: transparent;
+}
+
+.css_prefix-accordion .css_prefix-accordion-title .number {
+  height: 60px;
+  width: 60px;
+  line-height: 60px;
+  background: var(--color-theme-white);
+  text-align: center;
+  font-family: var(--highlight-font-family);
+  font-size: var(--font-size-h4);
+  letter-spacing: var(--font-letter-spacing-h4);
+  font-weight: var(--font-weight-semi-bold);
+  color: var(--global-font-title);
+  margin-right: 20px;
+  box-shadow: 0px 24px 84px 0px rgba(0, 0, 0, 0.08);
+  -webkit-box-shadow: 0px 24px 84px 0px rgba(0, 0, 0, 0.08);
+  -moz-box-shadow: 0px 24px 84px 0px rgba(0, 0, 0, 0.08);
+}
+
+.css_prefix-accordion .css_prefix-active .css_prefix-accordion-title .number {
+  background: var(--color-theme-primary);
+  color: var(--color-theme-white);
+  border-left: 3px solid var(--color-theme-secondary);
+
+}
+
+@media (max-width: 767px){
+  .css_prefix-accordion-block .media{
+    flex-direction: column;
+    align-items: flex-start;
+    padding-right: 0;
+  }
+
+  .css_prefix-accordion .css_prefix-accordion-title .accordion-title{
+    margin-top: 15px;
+  }
+
+  .css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title .css_prefix-icon-style{
+    top: 30px;
+  }
+}
+
+@media(max-width:480px) {
+
+  .css_prefix-accordion .css_prefix-accordion-title,
+  .css_prefix-accordion .css_prefix-active .css_prefix-accordion-title {
+    padding: 30px;
+  }
+
+  .css_prefix-accordion .css_prefix-accordion-title .number {
+    margin-right: 15px;
+  }
+
+  .css_prefix-accordion .css_prefix-accordion-block .css_prefix-accordion-title .css_prefix-icon-style{
+    top: 30px;
+  }
+}
+
+@media (max-width: 379px) {
+
+  .css_prefix-accordion .css_prefix-accordion-title .accordion-title {
+    margin-right: 0;
+  }
+}

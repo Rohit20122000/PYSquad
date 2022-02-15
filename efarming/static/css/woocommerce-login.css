@@ -1,0 +1,141 @@
+.woocommerce-form-login .woocommerce-form-row,
+.woocommerce-form-register .woocommerce-form-row{
+    margin:0 0 2em;
+} 
+.woocommerce-form-login .woocommerce-form__input{
+    height: 1.75em;
+}
+.woocommerce-form-login .login-inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.woocommerce-form-login .login-inner .woocommerce-form__label,
+.woocommerce-form-login .login-inner .woocommerce-LostPassword{
+    margin: 0;
+}
+.woocommerce-form-login  .form-submit-btn{
+    margin:2em 0 2em 0;
+}
+.woocommerce-form-login .sign_up_text a{
+    color: var(--color-theme-primary);
+}
+.woocommerce-form-login .sign-link{
+    display: flex;
+    align-items: center;
+}
+.woocommerce-form-register  .sign-up-btn{
+    margin-top:2em;
+    margin-bottom: 0;
+}
+
+
+/*Comment checkbox */
+
+.css_prefix-check label{
+	position: relative;
+}
+.css_prefix-check span {
+    padding-left: 2em;
+}
+
+.reply.css_prefix-reply .comment-reply-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color:var(--color-theme-primary);
+}
+.reply.css_prefix-reply .comment-reply-link::before {
+	position: absolute;
+	content: "\f3e5";
+	font-family: Font Awesome\ 5 Free;
+	top: 0;
+	bottom: 0;
+	left: -15px;
+	right: 0;
+	font-weight: 900;
+	font-size: 12px;
+	line-height: 28px;
+}
+.css_prefix-check .checkmark {
+    position: absolute;
+    top: 0.8125em;
+    left: 0;
+	height: 1em;
+    width: 1em;
+    padding: 0;
+    background-color: var(--white-light-color);
+    border: 0.0625em solid var(--color-theme-white);
+}
+.comment-respond .css_prefix-check {
+    margin-bottom: 2em;
+}
+.css_prefix-check input[type=checkbox] {
+    position: relative;
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+.css_prefix-check input:checked~.checkmark {
+    border: 0.0625em solid var(--color-theme-primary);
+}
+.css_prefix-check .checkmark {
+    top: 0.385em;
+    cursor: pointer;
+}
+
+.css_prefix-check input:checked ~ .checkmark { background-color: var(--color-theme-primary); }
+.css_prefix-check .checkmark:after { content: ""; position: absolute; display: none; }
+.css_prefix-check input:checked ~ .checkmark:after { display: block; }
+.css_prefix-check .checkmark:after { 
+    left: 0.22em;
+    top: 0.035em;
+    width: 0.375em;
+    height: 0.65em;
+    border: solid var(--color-theme-white);
+    border-width: 0 0.125em 0.125em 0;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+    border-radius: 0.1875em;
+}
+/*Comment checkbox End */
+
+
+@media(max-width:479px){
+    .woocommerce-form-login .login-inner{
+         justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        margin: 0;
+    }
+   
+    .woocommerce-form-login .sign-link{
+       flex-direction: column;
+       align-items: flex-start;
+    }
+
+   .woocommerce-form-login .form-row.form-submit-btn {
+       display: flex;
+       justify-content: center;
+   }
+
+/* registration */
+.woocommerce-form-register .woocommerce-sign-in-btn{
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0;
+}
+.woocommerce-form-register .woocommerce-FormRow.form-row.sign-up-btn {
+    display: flex;
+    justify-content: center;
+}
+
+}
+@media(max-width:325px){
+       .woocommerce-form-login .login-inner .woocommerce-LostPassword , .woocommerce-form-register .woocommerce-sign-in-btn {
+        margin-top: 15px;
+    }
+}

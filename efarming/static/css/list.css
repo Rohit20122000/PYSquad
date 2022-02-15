@@ -1,0 +1,69 @@
+/*-------------- List Style -----------------------*/
+
+.iqonic-list {
+	list-style-type: none;
+	padding: 0;
+}
+
+.iqonic-list li {
+	position: relative;
+	margin-bottom: 15px;
+	color: var(--global-font-color);
+	display:flex;
+}
+
+.iqonic-list li svg {
+	margin-right: 8px;
+	color: var(--color-theme-primary);
+}
+
+.iqonic-list ul {
+	list-style-type: none;
+	padding: 0;
+	margin-bottom: 0;
+}
+
+.iqonic-list ul li:last-child {
+	margin-bottom: 0;
+}
+
+.iqonic-list.iqonic-two-column li {
+	width: 50%;
+	float: left;
+}
+
+.iqonic-list.iqonic-three-column li {
+	width: 33.33%;
+	float: left;
+}
+
+.iqonic-list.iqonic-four-column li {
+	width: 25%;
+	float: left;
+}
+
+.iqonic-list.iqonic-five-column li {
+	width: 20%;
+	float: left;
+}
+
+.iqonic-list.iqonic-six-column li {
+	width: 16.66%;
+	float: left;
+}
+
+/*-------------- Three Column -----------------------*/
+
+.iqonic-list.iqonic-three-column .iqonic-list-with-icon {
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.iqonic-list.iqonic-three-column .iqonic-list-with-icon li {
+	margin-right: 25px;
+}

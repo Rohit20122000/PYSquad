@@ -1,0 +1,148 @@
+.css_prefix-counter-style-1 {
+    background: var(--color-theme-grey);
+    padding: 30px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.css_prefix-counter-style-1 .css_prefix-counter-icon {
+    background: var(--color-theme-white);
+    height: 80px;
+    width: 80px;
+    line-height: 80px;
+    border-left: 3px solid var(--color-theme-secondary);
+    border-radius: var(--border-radius);
+    margin: 0 auto;
+    text-align: center;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.css_prefix-counter-style-1.left .css_prefix-counter-icon {
+    display: inline-block;
+    margin: 0;
+}
+
+.css_prefix-counter-style-1.right .css_prefix-counter-icon {
+    display: inline-block;
+    margin: 0;
+}
+
+.css_prefix-counter-style-1.center .css_prefix-counter-icon {
+    display: inline-block;
+    margin: 0;
+}
+
+
+.css_prefix-counter-style-1:hover .css_prefix-counter-icon {
+    background: var(--color-theme-primary);
+}
+
+.css_prefix-counter-style-1:hover .css_prefix-counter-icon svg path {
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -ms-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.css_prefix-counter-style-1:hover .css_prefix-counter-icon svg path {
+    fill: var(--color-theme-white);
+}
+
+.css_prefix-counter-style-1 .css_prefix-counter-icon svg {
+    height: 40px;
+}
+
+.css_prefix-counter-style-1 .counter-content {
+    display: block;
+}
+
+.css_prefix-counter-style-1 .counter-detail {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+
+.css_prefix-counter-style-1 .css_prefix-counter-info span.timer,
+.css_prefix-counter-style-1 .css_prefix-counter-info span.counter-symbol {
+    font-size: var(--font-size-h2);
+    font-weight: var(--font-weight-semi-bold);
+}
+
+.css_prefix-counter-style-1 .css_prefix-counter-info span.counter-symbol {
+    color: var(--global-font-title);
+}
+
+.css_prefix-counter-style-1 .css_prefix-counter-info {
+    margin: 25px 0 10px 0;
+    line-height: normal;
+}
+
+.css_prefix-counter-style-1 .counter-detail .counter-title-text {
+    color: var(--color-theme-white);
+    text-transform: capitalize;
+}
+
+.css_prefix-counter-style-1.counter-content-text {
+    margin: 0;
+    color: var(--color-theme-white);
+    font-size: var(--font-size-small);
+    letter-spacing: var(--letter-spacing);
+    text-transform: uppercase;
+}
+
+.content-position-top .css_prefix-counter-style-1 .counter-content {
+    display: block;
+}
+
+.content-position-top .css_prefix-counter-style-1 .css_prefix-counter-info {
+    margin: 0 0 15px 0;
+}
+
+.content-position-top .css_prefix-counter-style-1 .css_prefix-counter-info span.counter-symbol {
+    font-size: var(--font-size-h3);
+}
+.css_prefix-counter-style-1.css_prefix-position-left {
+    display: flex;
+    align-items: center;
+}
+.css_prefix-counter-style-1.css_prefix-position-left .counter-content {
+margin-left: 15px;
+}
+@media only screen and (min-width: 1025px) and (max-width: 1270px) {
+
+    .css_prefix-counter-style-1 .counter-detail .counter-title-text,
+    .css_prefix-counter-style-1 .css_prefix-counter-info span.counter-symbol,
+    .css_prefix-counter-style-1 .css_prefix-counter-info span.timer {
+        font-size: var(--font-size-h4);
+    }
+}
+
+/*=================================
+css_prefix-counter-style-2
+=====================================*/
+.css_prefix-counter-style-2 {
+    padding: 50px 30px 40px;
+    background-color: var(--color-theme-grey);
+}
+
+.css_prefix-counter-style-2 .css_prefix-counter-icon {
+    font-family: var(--highlight-font-family);
+    text-transform: uppercase;
+    letter-spacing: var(--font-letter-spacing-h3);
+}
+
+.css_prefix-counter-style-2 .css_prefix-counter-icon svg {
+    margin-right: 15px;
+}
+
+.css_prefix-counter-style-2 .counter-content {
+    margin-top: 12px;
+}

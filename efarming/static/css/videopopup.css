@@ -1,0 +1,157 @@
+.css_prefix-popup-video .css_prefix-video {
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    line-height: 70px;
+    color: var(--color-theme-primary);
+    background: var(--color-theme-secondary);
+    position: relative;
+    margin-right: 0px;
+    border-radius: 50%;
+}
+
+.css_prefix-popup-video .css_prefix-video svg,
+.css_prefix-popup-video .css_prefix-video i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: var(--color-theme-primary);
+    font-size: var(--font-size-h5);
+}
+
+.css_prefix-popup-video .css_prefix-video-text {
+    display: block;
+    text-align: left;
+    color: var(--color-theme-white);
+    font-size: var(--font-size-h6);
+    font-family: var(--highlight-font-family);
+    font-weight: var(--font-weight-h6);
+}
+
+.css_prefix-popup-video .css_prefix-video-icon {
+    text-align: center;
+}
+
+.css_prefix-popup-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video-icon {
+    display: block;
+    text-align: center;
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video-icon {
+    background: transparent;
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video-icon {
+    padding: 0;
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video {
+    margin-right: 0;
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    background: var(--color-theme-primary);
+    box-shadow: 10px 10px 24px rgba(33, 35, 33, 0.1);
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video svg,
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video i {
+    color: var(--color-theme-secondary);
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video svg,
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video i {
+    font-size: var(--font-size-h5);
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video-text {
+    font-family: var(--highlight-font-family);
+    font-weight: var(--font-weight-h4);
+    font-size: var(--font-size-h4);
+}
+
+.css_prefix-popup-video.css_prefix-popup-video_Style_2 .css_prefix-video-text {
+    text-align: center;
+}
+
+.css_prefix-popup-video .css_prefix-video-text {
+    color: var(--color-theme-primary);
+}
+
+
+
+/*== style-2 ==*/
+.css_prefix-popup-video-style-2 {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 40px;
+    background-color: var(--color-theme-white);
+    max-width: 210px;
+}
+
+.css_prefix-popup-video-style-2 .css_prefix-video-img .css_prefix-video-icon {
+    text-align: center;
+}
+
+.css_prefix-popup-video-style-2 .css_prefix-video-img .css_prefix-video-icon .css_prefix-video-text {
+    font-family: var(--highlight-font-family);
+    font-size: var(--font-size-h3);
+    line-height: var(--font-line-height-h3);
+    color: var(--global-font-title);
+    font-weight: var(--font-weight-semi-bold);
+    margin-bottom: 35px;
+    display: block;
+}
+
+.css_prefix-popup-video-style-2 .css_prefix-video-img .css_prefix-video-icon .css_prefix-video {
+    height: 80px;
+    width: 80px;
+    line-height: 80px;
+    font-size: 22px;
+    color: var(--color-theme-primary);
+    background: var(--color-theme-secondary);
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+}
+
+.css_prefix-popup-video-style-2 .css_prefix-video-img .css_prefix-video-icon .css_prefix-video svg{
+    height: 16px;
+}
+
+@media (max-width: 767px) {
+    .css_prefix-popup-video-style-2 {
+        padding: 20px;
+    }
+
+    .css_prefix-popup-video-style-2 .css_prefix-video-img .css_prefix-video-icon .css_prefix-video-text {
+        margin-bottom: 15px;
+    }
+
+    .css_prefix-popup-video-style-2 .css_prefix-video-img .css_prefix-video-icon .css_prefix-video {
+        height: 50px;
+        width: 50px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 479px) {
+    .css_prefix-popup-video-style-2 .css_prefix-video-img .css_prefix-video-icon .css_prefix-video-text {
+        margin-bottom: 10px;
+    }
+}

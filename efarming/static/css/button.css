@@ -1,0 +1,38 @@
+.css_prefix-btn-small {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+.css_prefix-btn-medium {
+    font-size: 16px;
+    padding: 15px 30px;
+}
+
+.css_prefix-btn-large {
+    font-size: 18px;
+    padding: 20px 40px;
+}
+
+.css_prefix-btn-extra-large {
+    font-size: 20px;
+    padding: 25px 50px;
+}
+
+.css_prefix-btn-round {
+    border-radius: 30px !important;
+    overflow: hidden;
+}
+
+.css_prefix-btn-semi-round {
+    border-radius: 5px !important;
+    overflow: hidden;
+}
+
+.css_prefix-btn-circle {
+    border-radius: 50% !important;
+    overflow: hidden;
+}
+
+.css_prefix-btn-outline {
+    outline: 2px solid var(--css_prefix-black) !important;
+}
