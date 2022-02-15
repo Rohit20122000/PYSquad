@@ -1,5 +1,5 @@
 from django.db import models
-
+from user.models import Vendor
 # Create your models here.
 
 Catagory_Choices = (("FRUIT","FRUIT"),
@@ -38,15 +38,15 @@ class Catagory(models.Model):
     def __str__(self):
         return self.name
 
+
 class VendorInventory(models.Model):
-    product_name = models.CharField(max_length=100)
-    Date_for_ready = models.DateField()
-    your_price_perKG = models.IntegerField()
+    vendor = models.ForeignKey(Vendor, on_delete=models.CASCADE)
+    productname = models.CharField(max_length=100)
+    ProductQuantity = models.IntegerField()
+    Dateforready = models.DateField()
     Catagory = models.CharField(choices=Catagory_Choices,max_length=50)
-    Sub_Catagory = models.CharField(choices=Subcat_Choices,max_length=50)
+    SubCatagory = models.CharField(choices=Subcat_Choices,max_length=50)
 
     
     def __str__(self):
-        return self.product_name
-    
-   
+        return f"{self.productname}"

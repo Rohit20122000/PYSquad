@@ -20,11 +20,11 @@ class Vendor(models.Model):
     Area_code= models.CharField(max_length=100)
 
     def __str__(self):
-        return self.Area_code
+        return f"{self.vendor_data.user_name}"
 
 class Customer(models.Model):
     customer_data = models.ForeignKey(User,on_delete=models.CASCADE)
     Pin = models.CharField(max_length=100)
 
     def __str__(self):
-        return self.Pin
+        return self.customer_data
