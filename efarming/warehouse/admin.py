@@ -7,3 +7,4 @@ admin.site.register(ProductType)
 admin.site.register(Catagory)
 admin.site.register(warehouse)
 admin.site.register(VendorInventory)
+

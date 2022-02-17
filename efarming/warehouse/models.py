@@ -35,6 +35,9 @@ class VendorInventory(models.Model):
     Dateforready = models.DateField()
     Catagory = models.CharField(choices=Catagory_Choices,max_length=50)
     SubCatagory = models.CharField(choices=Subcat_Choices,max_length=50)
+    acceptbutton = models.BooleanField("Accept",default=False,max_length=50)
+    deniedbutton = models.BooleanField("Denied",default=False,max_length=50)
+    
 
     
     def __str__(self):
