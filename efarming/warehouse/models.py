@@ -6,19 +6,7 @@ Catagory_Choices = (("FRUIT","FRUIT"),
                   ("VAGETABLE","VAGETABLE"))
 Subcat_Choices = (("potato","potato"),("tomato","tomato"),("onion","onion"),
                   ("apple","apple"),("banana","banana"))
-
-
-class warehouse(models.Model):
-    areaCode= models.UUIDField(primary_key=True)
-    areaname=models.CharField(max_length=100)
-    stoke = models.IntegerField()
-    capacity = models.IntegerField()
-    no_of_vehicles = models.IntegerField()
-
-    def __str__(self):
-        return self.stoke
-
-    
+                  
 
 class ProductType(models.Model):
     name = models.CharField(max_length=100)
@@ -50,4 +38,12 @@ class VendorInventory(models.Model):
 
     
     def __str__(self):
-        return f"{self.productname}"
+        return f"{self.vendor.vendor_data}"
+
+class warehouse(models.Model):
+    order = models.ForeignKey(VendorInventory,on_delete=models.CASCADE)
+    areaname=models.CharField(max_length=100)
+    
+
+    def __str__(self):
+        return f"{self.order.productname}"
