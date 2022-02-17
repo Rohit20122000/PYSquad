@@ -10,6 +10,7 @@ Subcat_Choices = (("potato","potato"),("tomato","tomato"),("onion","onion"),
 
 class warehouse(models.Model):
     areaCode= models.UUIDField(primary_key=True)
+    areaname=models.CharField(max_length=100)
     stoke = models.IntegerField()
     capacity = models.IntegerField()
     no_of_vehicles = models.IntegerField()
