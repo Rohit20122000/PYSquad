@@ -24,3 +24,4 @@ class InventoryForm(forms.ModelForm):
     class Meta:
         model = VendorInventory
         fields = "__all__"
+        exclude = 'acceptbutton','deniedbutton'
