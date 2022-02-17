@@ -4,7 +4,7 @@ from django.contrib import admin
 from .models import ProductType,Catagory,warehouse,VendorInventory
 
 class VendorInventoryAdmin(admin.ModelAdmin):
-    list_display = ('vendor','productname',)
+    list_display = ('vendor','productname','acceptbutton','deniedbutton')
 
 admin.site.register(ProductType)
 admin.site.register(Catagory)

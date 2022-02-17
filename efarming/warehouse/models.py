@@ -1,3 +1,4 @@
+import re
 from django.db import models
 from user.models import Vendor
 # Create your models here.
@@ -37,6 +38,7 @@ class VendorInventory(models.Model):
     SubCatagory = models.CharField(choices=Subcat_Choices,max_length=50)
     acceptbutton = models.BooleanField("Accept",default=False,max_length=50)
     deniedbutton = models.BooleanField("Denied",default=False,max_length=50)
+    
     
 
     
