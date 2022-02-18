@@ -16,8 +16,8 @@ class Order(models.Model):
     address = models.TextField()
     details = models.TextField()
     price = models.DecimalField(max_digits=10,decimal_places=2)
-    deliveryDate = models.DateField()
-    productQuntity = models.IntegerField()
+    delivery_date = models.DateField()
+    product_quntity = models.IntegerField()
 
     def __str__(self) -> str:
         return self.price

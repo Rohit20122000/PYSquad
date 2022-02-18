@@ -1,10 +1,10 @@
 from django import forms
-from .models import warehouse,ProductType,Catagory,VendorInventory
+from .models import Warehouse,ProductType,Catagory,VendorInventory
 
 
 class WarehouseForm(forms.ModelForm):
     class Meta:
-        model = warehouse
+        model = Warehouse
         fields = "__all__"
 
 
@@ -23,4 +23,4 @@ class InventoryForm(forms.ModelForm):
     class Meta:
         model = VendorInventory
         fields = "__all__"
-        exclude = 'acceptbutton','deniedbutton'
+        exclude = 'is_accept',
