@@ -3,6 +3,7 @@ from django.contrib import admin
 # Register your models here.
 from .models import ProductType,Catagory,Warehouse,VendorInventory
 
+
 class VendorInventoryAdmin(admin.ModelAdmin):
     list_display = ('vendor','product_name','sell_price','is_accept')
 
@@ -17,7 +18,11 @@ class VendorInventoryAdmin(admin.ModelAdmin):
         return aa
 
 
+
+class WarehouseAdmin(admin.ModelAdmin):
+    list_display = ('order','procuct_price','is_ready')
+
 admin.site.register(ProductType)
 admin.site.register(Catagory)
-admin.site.register(Warehouse)
+admin.site.register(Warehouse,WarehouseAdmin)
 admin.site.register(VendorInventory,VendorInventoryAdmin)
