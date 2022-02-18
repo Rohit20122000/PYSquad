@@ -46,4 +46,4 @@ class Warehouse(models.Model):
     order = models.OneToOneField(VendorInventory,on_delete=models.CASCADE)
     
     def __str__(self):
-        return f"{self.order.productname}"
+        return f"{self.order.product_name}"
