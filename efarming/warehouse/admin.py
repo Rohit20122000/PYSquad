@@ -6,8 +6,12 @@ from .models import ProductType,Catagory,Warehouse,VendorInventory
 from product.models import Product
 
 
+
 class VendorInventoryAdmin(admin.ModelAdmin):
     list_display = ('vendor','product_name','sell_price','is_accept')
+
+    def has_add_permission(self, request):
+        return False
 
     def save_model(self, request, obj, form, change):
         if obj.is_accept:
@@ -24,6 +28,9 @@ class VendorInventoryAdmin(admin.ModelAdmin):
 class WarehouseAdmin(admin.ModelAdmin):
     list_display = ('order','procuct_price','is_ready')
     
+    def has_add_permission(self, request):
+        return False
+
     def save_model(self, request, obj, form, change):
         if obj.is_ready:
             if not Product.objects.filter(product_name=obj).exists():
