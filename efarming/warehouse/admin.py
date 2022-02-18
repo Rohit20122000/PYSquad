@@ -10,17 +10,18 @@ class VendorInventoryAdmin(admin.ModelAdmin):
     def save_model(self, request, obj, form, change):
         if obj.is_accept:
             if not Warehouse.objects.filter(order=obj).exists():
-                Warehouse.objects.create(order=obj)
+                Warehouse.objects.create(order=obj,procuct_price = False ,is_ready=False)
         elif not obj.is_accept and Warehouse.objects.filter(order=obj).exists():
             Warehouse.objects.filter(order=obj).first().delete()
 
-        aa = super(VendorInventoryAdmin, self).save_model(request, obj, form, change)
-        return aa
+        vendor_super = super(VendorInventoryAdmin, self).save_model(request, obj, form, change)
+        return vendor_super
 
 
 
 class WarehouseAdmin(admin.ModelAdmin):
     list_display = ('order','procuct_price','is_ready')
+    
 
 admin.site.register(ProductType)
 admin.site.register(Catagory)
