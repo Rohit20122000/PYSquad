@@ -11,4 +11,4 @@ class Product(models.Model):
     product_quntity = models.IntegerField()
 
     def __str__(self):
-        return f"{self.Warehouse}"
+        return  self.name
