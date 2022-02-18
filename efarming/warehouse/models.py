@@ -1,4 +1,3 @@
-import re
 from django.db import models
 from user.models import Vendor
 # Create your models here.
