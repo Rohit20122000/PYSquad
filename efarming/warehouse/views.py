@@ -9,7 +9,7 @@ def producttype_view(request):
     if form.is_valid():
         form.save()
                  
-    return render(request, "warehouseform.html",{'form':form})
+    return render(request, "productform.html",{'form':form})
 
 def warehouse_view(request):
  
@@ -27,7 +27,7 @@ def catagory_view(request):
     if form.is_valid():
         form.save()
                  
-    return render(request, "warehouseform.html",{'form':form})
+    return render(request, "catagoryform.html",{'form':form})
 
 def Inventory_view(request):
  

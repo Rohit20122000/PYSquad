@@ -17,7 +17,7 @@ def user_view(request):
     if form.is_valid():
         form.save()
 
-    return render(request, "venderform.html",{'form':form})
+    return render(request, "userform.html",{'form':form})
 
 def customer_view(request):
 
@@ -25,4 +25,4 @@ def customer_view(request):
     if form.is_valid():
         form.save()
 
-    return render(request, "venderform.html",{'form':form})
+    return render(request, "customerform.html",{'form':form})
