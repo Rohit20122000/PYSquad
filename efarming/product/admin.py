@@ -4,7 +4,7 @@ from django.contrib import admin
 from .models import Product
 
 class ProductAdmin(admin.ModelAdmin):
-    list_display = ('product_name','product_quntity','price')
+    list_display = ('product_name','price')
     def has_add_permission(self, request):
         return False
 

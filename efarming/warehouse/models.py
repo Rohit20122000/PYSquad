@@ -44,7 +44,6 @@ class VendorInventory(models.Model):
 
 class Warehouse(models.Model):
     order = models.OneToOneField(VendorInventory,on_delete=models.CASCADE)
-    procuct_price = models.IntegerField()
     is_ready = models.BooleanField("Ready to Sell",default=False,max_length=50)
     
     def __str__(self):

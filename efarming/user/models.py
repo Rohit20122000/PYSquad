@@ -12,7 +12,7 @@ class User(models.Model):
     
 
     def __str__(self):
-        return self.user_name
+        return f"{self.user_name}"
 
     
 class Vendor(models.Model):
@@ -28,4 +28,4 @@ class Customer(models.Model):
     pin = models.CharField(max_length=100)
 
     def __str__(self):
-        return self.customer_data
+        return f"{self.customer_data}"

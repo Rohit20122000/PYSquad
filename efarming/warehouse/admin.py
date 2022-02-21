@@ -26,7 +26,7 @@ class VendorInventoryAdmin(admin.ModelAdmin):
 
 
 class WarehouseAdmin(admin.ModelAdmin):
-    list_display = ('order','procuct_price','is_ready')
+    list_display = ('order','is_ready')
     
     def has_add_permission(self, request):
         return False
